@@ -84,7 +84,7 @@ int main()
 
 		moveAndLoad(aTruck, "Toronto Deposit", 2345);
 
-		moveAndLoad(aTruck, "Montreal", 3456);
+		moveAndLoad(aTruck, "Montreal", 3087);
 
 		moveAndLoad(aTruck, "New York", 4567);
 
